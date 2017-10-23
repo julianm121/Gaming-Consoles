@@ -1,0 +1,72 @@
+<DOCTYPE! html>
+<html>
+<head>
+<title>Old and new consoles</title>
+  <style>
+	  body{
+	background-image: url(../images/images.jpg);
+	  }
+	  ol, h4, h3, h2, h1, p{
+	  color: #FFFF00
+	  }
+	  h1{
+	  font:"Verdana";
+	  }
+	  h1{
+	  font-size:60px;
+	  }
+	  ol{
+	  text-size:40px;
+	  }
+	  div.intro{
+	  text-align:center;
+	  position:absolute
+	  text:Inl
+	  }
+	  div.side_column
+	  {
+	display:inline-block;
+	position:absolute;
+	top:0px;
+	background:#FFF;
+	border: 2px solid #eaeaea;
+	left: -4px;
+	height: 2962px;
+	width: 126px;
+}
+  </style>
+     
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+</head>
+  <body>
+  <header>
+  <h1>Power Play</h1>
+  </header>
+  <div class="intro">
+    <h1>History Check!</h1>
+    <h2>keeping up with the history of specific consoles</h2>
+    <p>What is a  console? It's pretty weird word with lots of definitions, but the one were talking about is the most iconic of them all. The gaming console.for Consoles have been a staple of family fun for 2 decades. They've come in sizes big and small and have even managed to influence the growing global market today. These days the video games has become a multibillion dollar industry constantly breaking new records every year. Consoles logically took jump with them in the market and are one the most sold technological items to date. So to honor these consoles lets review their history and great feats.</p>
+    <h2> So lets start the list shall we?</h2>
+    <h4>list of items not in chronological order.</h4>
+    <ol>
+      <a href="GameCube.html"><li><h2>Gamecube</h2></li></a><img src="../images/GameCube-Console-Set.png" width="359" height="223"/>
+      <li><h2>Nintendo Wii</h2></li>
+      <img src="../images/Wii-console.jpg" width="400" height="235"/>
+      <li><h2>Sega Dreamcast</h2></li>
+    
+      <img src="../images/Sega-dreamcast-set.png" width="400" height="230"/>
+      <li><h2>Super Nintendo Entertainment System</h2></li>
+      <img src="../images/super Nintendo entertainment system.jpg"/>
+      <li>
+        <h2>Xbox</h2></li>
+        <img src="../images/O.G Xbox .jpg"/>
+      <a href="playstation_2.html"><li><h2>Playstation 2</h2></li></a>
+      <img src="../images/PS2-Versions.jpg"  width="400" height="230"/>
+      <li><h2>Atari</h2></li>
+      <img src="../images/Atari-2600-Console.jpg"  width="400" height="230"/>
+    </ol>
+  </div>
+</body>
+   </html>
+   
+    
